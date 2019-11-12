@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\5. Threads & Networking\\HandlerSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\5. Threads & Networking\\HandlerSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "126,56",
+                        "endColumns": "52,69",
+                        "endOffsets": "174,121"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,69",
+                        "endOffsets": "103,173"
+                    }
+                }
+            ]
+        }
+    ]
+}
